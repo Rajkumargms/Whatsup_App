@@ -4,3 +4,4 @@ Step1 : Profile page code
 Step2 : Chat screen code
 Step3 : Last seen code
 Step4 : Attachments (Image,Audio,Video) code
+Step5 : Hide the Last Seen
